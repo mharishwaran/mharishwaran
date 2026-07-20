@@ -214,26 +214,6 @@ System Design             ███░░░░░░░░░░░░░░░
 
 ---
 
-# 📬 Contact Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/harishwaran-m-77b7063a8">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/mharishwaran">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
 # ❤️ Support
 
 <div align="center">
