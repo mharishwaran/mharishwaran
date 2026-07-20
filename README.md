@@ -14,7 +14,7 @@
 
 #### 💻 Aspiring Software Engineer | Full Stack MERN Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Full+Stack+MERN+Developer;JavaScript+Developer;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Full+Stack+MERN+Developer;JavaScript+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+DSA+and+Core+Computer+Science;Building+Real+World+Projects🚀"/>
 
 </div>
 ---
