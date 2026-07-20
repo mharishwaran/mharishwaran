@@ -207,16 +207,11 @@ System Design             ███░░░░░░░░░░░░░░░
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
-
-> ⚠️ **Note:** Snake animation வேலை செய்ய GitHub Action setup செய்யணும்.
-> நான் Part 4-ல அதோட workflow-ஐ தர்றேன்.
-
-<img src="https://raw.githubusercontent.com/mharishwaran/mharishwaran/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mharishwaran/mharishwaran/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
