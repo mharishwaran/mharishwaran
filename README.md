@@ -194,18 +194,6 @@ System Design             ███░░░░░░░░░░░░░░░
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mharishwaran&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
-> ⚠️ Trophy service சில நேரம் down ஆகலாம். வேலை செய்யலன்னா இந்த section-ஐ temporary remove பண்ணலாம்.
-
----
-
 # ⚡ Fun Facts
 
 - 💻 I enjoy building real-world web applications.
