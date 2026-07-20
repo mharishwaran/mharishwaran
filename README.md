@@ -14,7 +14,7 @@
 
 ### 💻 Aspiring Software Engineer | Full Stack MERN Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;JavaScript+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+DSA+and+Core+Computer+Science;Building+Real+World+Projects+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Full+Stack+MERN+Developer;JavaScript+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+DSA+and+Core+Computer+Science;Building+Real+World+Projects🚀" />
 
 </div>
 
@@ -242,16 +242,6 @@ System Design             ███░░░░░░░░░░░░░░░
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
 </a>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mharishwaran&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
